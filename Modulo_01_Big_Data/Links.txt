@@ -1,0 +1,5 @@
+Fundamentos - O que é Big Data?
+https://cetax.com.br/big-data/
+
+Fundamentos - OLAP, OLTP, ETL
+https://vertabelo.com/blog/what-is-data-warehousing/
