@@ -1,5 +1,11 @@
-Fundamentos - O que é Big Data?
+01 - Fundamentos - O que é Big Data?
 https://cetax.com.br/big-data/
 
-Fundamentos - OLAP, OLTP, ETL
+02 - Fundamentos - OLAP, OLTP, ETL
 https://vertabelo.com/blog/what-is-data-warehousing/
+
+03 - Fundamentos - Data Centric e Data Driven
+https://www.nerdery.com/insights/data-driven-data-centricity/
+
+04 - Hadoop - O que é, conceito e definição
+https://cetax.com.br/apache-hadoop/
